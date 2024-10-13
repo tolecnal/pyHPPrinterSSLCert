@@ -1,0 +1,7 @@
+setuptools
+wheel
+selenium
+python-dotenv
+cryptography
+certbot
+certbot-dns-cloudflare

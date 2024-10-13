@@ -1,0 +1,11 @@
+accounts/*
+archive/*
+live/*
+renewal/*
+renewal-hooks/*
+venv/*
+source.html
+cookies.txt
+.envrc
+letsencrypt.log*
+output.html

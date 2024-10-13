@@ -1,0 +1,5 @@
+export PRINTER_HOSTNAME="your.hostname.com"
+export CLOUDFLARE_EMAIL="your_email@example.com"
+export CLOUDFLARE_API_KEY="your_cloudflare_api_token"
+export CERTIFICATE_PASSWORD="your_pfx_password"
+export ADMIN_PASSWORD="yourpassword"
